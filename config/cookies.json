@@ -1,0 +1,7 @@
+{
+  "authorization": "Bearer 你的优酷授权码(如果有)",
+  "cookies_string": "P_uid=xxx; cna=xxx; 你的优酷完整cookie字符串",
+  "custom_headers": {
+    "Referer": "https://www.youku.com/"
+  }
+}
